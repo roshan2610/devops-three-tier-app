@@ -11,7 +11,7 @@ STEPS:
 1. Create an IAM User: 
    Create an IAM User with AdministratorAccess and generate Access Key and Secrete Access Key.
 
-2. Create EC2: 
+2. Create EC2:   
    Create an EC2 machine and attach required security groups.
    SSH into the machine
 
