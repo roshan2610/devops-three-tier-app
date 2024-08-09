@@ -4,8 +4,9 @@ Technologies used:
 1. Application: React JS, Node JS, MongoDB
 2. AWS: EC2, IAM, ECR, EKS
 3. Containerzation: Docker, EKS
-4. Version control: Git
-5. Kubernetes manifests files using YAML
+4. Registry: ECS  
+5. Version control: Git
+6. Kubernetes manifests files using YAML
 
 STEPS:  
 1. Create an IAM User:   
