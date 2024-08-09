@@ -1,4 +1,4 @@
-#Three-Tier Application Deployment
+# Three-Tier Application Deployment
 In this application we have a Three-tier Web Application created using React JS, Node JS, MongoDB. And we are deploying this application using AWS EKS. 
 
 Technologies used:
