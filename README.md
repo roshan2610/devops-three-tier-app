@@ -51,7 +51,7 @@ STEPS:
 
 8. Run kubernet manifests:   
    ```
-   kubectl create namespace workshop  
+   kubectl create namespace three-tier-app  
    kubectl apply -f .   
 
 9. Install AWS Load Balancer:   
